@@ -224,19 +224,19 @@ header{
     gap: 45px;
 }
 .all:hover{
-    color: #0b6efd;
+    color: #0b6efd !important;
 }
 .packaging:hover{
-    color: #0b6efd;
+    color: #0b6efd !important;
 }
 .mockup:hover{
-    color: #0b6efd;
+    color: #0b6efd !important;
 }
 .tyograhpy:hover{
-    color: #0b6efd;
+    color: #0b6efd !important;
 }
 .photography:hover{
-    color: #0b6efd;
+    color: #0b6efd !important;
 }
 .boxes{
     width: 75%;
