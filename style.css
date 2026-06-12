@@ -53,19 +53,19 @@ header{
     align-items: center;
 }
 .home-menu:hover{
-    color: #bac964;
+    color: #bac964 !important;
 }
 .portfolio-menu:hover{
-    color: #bac964;
+    color: #bac964 !important;
 }
 .resume-menu:hover{
-    color: #bac964;
+    color: #bac964 !important;
 }
 .about-menu:hover{
-    color: #bac964;
+    color: #bac964 !important;
 }
 .contact-menu:hover{
-    color: #bac964;
+    color: #bac964 !important;
 }
 .man-big{
     width: 100vw;
